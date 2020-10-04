@@ -7,4 +7,4 @@ Here's the codes of the section of 30 Days of Code of HackerRank which I have so
 <br/>
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://www.python.org/)
 <br/>
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-cpp.svg)](https://www.python.org/)
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
