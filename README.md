@@ -11,3 +11,5 @@ Here's the codes of the section of 30 Days of Code of HackerRank which I have so
 <br/>
 
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
+<br/>
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
